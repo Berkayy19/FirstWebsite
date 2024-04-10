@@ -6,6 +6,10 @@
     margin-left: 100px;
 }
 
+#formularpad{
+    padding-top: 7em;
+}
+
 #footer{
     display:flex;
     justify-content: space-around;
